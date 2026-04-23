@@ -166,22 +166,22 @@ npm start
 cd ../client
 npm start
 ```
+---
 
-```
 📊 Use Cases
 Personal finance management
 Expense tracking & budgeting
 Financial behavior analysis
 Data-driven decision making
-```
-```
+---
+
 🔮 Future Enhancements
 🤖 AI-based financial predictions
 📱 Mobile app integration
 🔔 Smart alerts & notifications
 🌍 Multi-currency support
 🤝 Contributing
-```
+---
 ```
 📬 Contact
 📧 Email: shifapathan2026@gmail.com

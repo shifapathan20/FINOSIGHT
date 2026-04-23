@@ -139,7 +139,8 @@ finosight/
 ```bash
 git clone https://github.com/your-username/finosight.git
 cd finosight
-
+```
+```
 2️⃣ Install Dependencies
 # Install backend dependencies
 cd server
@@ -148,12 +149,14 @@ npm install
 # Install frontend dependencies
 cd ../client
 npm install
-
+```
+```
 3️⃣ Configure Firebase
 Create a Firebase project
 Add your Firebase config in the project
 Enable Authentication & Firestore
-
+```
+```
 4️⃣ Run the Application
 # Start backend
 cd server
@@ -163,23 +166,26 @@ npm start
 cd ../client
 npm start
 ```
+
+```
 📊 Use Cases
 Personal finance management
 Expense tracking & budgeting
 Financial behavior analysis
 Data-driven decision making
-
-
+```
+```
 🔮 Future Enhancements
 🤖 AI-based financial predictions
 📱 Mobile app integration
 🔔 Smart alerts & notifications
 🌍 Multi-currency support
 🤝 Contributing
-
+```
+```
 📬 Contact
 📧 Email: shifapathan2026@gmail.com
 💼 LinkedIn: www.linkedin.com/in/shifapathan20
-
+```
 
 

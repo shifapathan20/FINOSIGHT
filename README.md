@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">💰 FINOSIGHT</h1>
+  <h1 align="center">💰 FINOSIGHT </h1>
   <p align="center">
     Data-driven financial platform engineered to transform transactional data into real-time insights, enabling clarity, control, and smarter financial decisions at scale.
   </p>

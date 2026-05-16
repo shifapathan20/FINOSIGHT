@@ -34,7 +34,7 @@ It leverages modern web technologies and intelligent data processing to convert 
   - Detect anomalies and optimize spending
 
 - ⚡ **Scalable Architecture**
-  - Designed to handle growing datasets efficiently
+  - Designed to handle growing datasets efficiently.
 
 ---
 
